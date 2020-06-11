@@ -1,0 +1,11 @@
+#
+# OEM_BUILD_PROPERTIES
+#
+ro.build.version.incremental=fb648
+ro.build.version.ci=6
+ro.mot.build.guid=af403c03d6805dc
+ro.mot.base_buildid=PPB29.73-81-5/1e339
+ro.product.name=surfna
+ro.mot.build.oem.product=surfna
+ro.mot.build.customerid=retail
+ro.product.device=surfna

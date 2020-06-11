@@ -1,0 +1,7 @@
+{
+    "Image_Build_IDs": {
+        "modem": "MPSS.TA.3.0.c1-00003-8953_GEN_PACK-1",
+        "ims_version": "TA3.0_IR92_V10.0"
+    },
+    "Version": "1.0"
+}

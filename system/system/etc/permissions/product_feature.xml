@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<permissions>
+    <feature name="com.motorola.software.device.surfna" />
+    <feature name="com.motorola.software.product.surfna_retail" />
+    <feature name="com.motorola.hardware.tier.E" />
+    <feature name="com.motorola.hardware.wave.2019.2" />
+</permissions>

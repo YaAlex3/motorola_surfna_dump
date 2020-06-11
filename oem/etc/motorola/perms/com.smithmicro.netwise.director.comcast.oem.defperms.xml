@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- Permission granted by Google b/28277547 -->
+<!-- Comcast Wifi Connection Manager -->
+<permissions>
+    <package name="com.smithmicro.netwise.director.comcast.oem">
+        <permission name="android.permission.ACCESS_COARSE_LOCATION"/>
+        <permission name="android.permission.ACCESS_FINE_LOCATION"/>
+        <permission name="android.permission.READ_PHONE_STATE"/>
+    </package>
+</permissions>

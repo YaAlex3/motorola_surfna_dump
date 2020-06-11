@@ -1,0 +1,13 @@
+# user 9 PPBS29.73-81-5-5 fb648 release-keys
+- manufacturer: motorola
+- platform: msm8937
+- codename: surfna
+- flavor: user
+- release: 9
+- id: PPBS29.73-81-5-5
+- incremental: fb648
+- tags: release-keys
+- fingerprint: 
+- brand: motorola
+- branch: user-9-PPBS29.73-81-5-5-fb648-release-keys
+- repo: motorola_surfna_dump

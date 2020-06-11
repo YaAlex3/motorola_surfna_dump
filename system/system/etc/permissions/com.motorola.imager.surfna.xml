@@ -1,0 +1,4 @@
+<permissions>
+   <library name="com.motorola.imager.surfna"
+       file="/system/framework/com.motorola.imager.surfna" />
+</permissions>
